@@ -2,66 +2,66 @@
 <testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-17T22:32:11 IST" name="Suite" finished-at="2024-01-17T22:32:21 IST" duration-ms="9442">
+  <suite started-at="2024-01-19T00:32:19 IST" name="Suite" finished-at="2024-01-19T00:32:30 IST" duration-ms="11006">
     <groups>
     </groups>
-    <test started-at="2024-01-17T22:32:11 IST" name="Test" finished-at="2024-01-17T22:32:21 IST" duration-ms="9442">
+    <test started-at="2024-01-19T00:32:19 IST" name="Test" finished-at="2024-01-19T00:32:30 IST" duration-ms="11006">
       <class name="org.testing.testScripts.TC10_DeleteEmployee">
-        <test-method signature="testCase10()[pri:0, instance:org.testing.testScripts.TC10_DeleteEmployee@515c6049]" started-at="2024-01-17T22:32:20 IST" name="testCase10" finished-at="2024-01-17T22:32:21 IST" duration-ms="882" status="PASS">
+        <test-method signature="testCase10()[pri:0, instance:org.testing.testScripts.TC10_DeleteEmployee@515c6049]" started-at="2024-01-19T00:32:29 IST" name="testCase10" finished-at="2024-01-19T00:32:30 IST" duration-ms="979" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase10 -->
       </class> <!-- org.testing.testScripts.TC10_DeleteEmployee -->
       <class name="org.testing.testScripts.TC9_UpdateEmployee">
-        <test-method signature="testCase9()[pri:0, instance:org.testing.testScripts.TC9_UpdateEmployee@33d512c1]" started-at="2024-01-17T22:32:15 IST" name="testCase9" finished-at="2024-01-17T22:32:20 IST" duration-ms="4949" status="PASS">
+        <test-method signature="testCase9()[pri:0, instance:org.testing.testScripts.TC9_UpdateEmployee@33d512c1]" started-at="2024-01-19T00:32:24 IST" name="testCase9" finished-at="2024-01-19T00:32:29 IST" duration-ms="5015" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase9 -->
       </class> <!-- org.testing.testScripts.TC9_UpdateEmployee -->
       <class name="org.testing.testScripts.TC2_GetAllRequest">
-        <test-method signature="testcase2()[pri:0, instance:org.testing.testScripts.TC2_GetAllRequest@65fb9ffc]" started-at="2024-01-17T22:32:13 IST" name="testcase2" finished-at="2024-01-17T22:32:13 IST" duration-ms="79" status="PASS">
+        <test-method signature="testcase2()[pri:0, instance:org.testing.testScripts.TC2_GetAllRequest@65fb9ffc]" started-at="2024-01-19T00:32:22 IST" name="testcase2" finished-at="2024-01-19T00:32:22 IST" duration-ms="218" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase2 -->
       </class> <!-- org.testing.testScripts.TC2_GetAllRequest -->
       <class name="org.testing.testScripts.TC7_GetSingleData">
-        <test-method signature="testcase7()[pri:0, instance:org.testing.testScripts.TC7_GetSingleData@3590fc5b]" started-at="2024-01-17T22:32:14 IST" name="testcase7" finished-at="2024-01-17T22:32:14 IST" duration-ms="75" status="PASS">
+        <test-method signature="testcase7()[pri:0, instance:org.testing.testScripts.TC7_GetSingleData@3590fc5b]" started-at="2024-01-19T00:32:23 IST" name="testcase7" finished-at="2024-01-19T00:32:23 IST" duration-ms="228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase7 -->
       </class> <!-- org.testing.testScripts.TC7_GetSingleData -->
       <class name="org.testing.testScripts.TC5_DeleteRequest">
-        <test-method signature="testCase5()[pri:0, instance:org.testing.testScripts.TC5_DeleteRequest@78691363]" started-at="2024-01-17T22:32:13 IST" name="testCase5" finished-at="2024-01-17T22:32:13 IST" duration-ms="30" status="PASS">
+        <test-method signature="testCase5()[pri:0, instance:org.testing.testScripts.TC5_DeleteRequest@78691363]" started-at="2024-01-19T00:32:23 IST" name="testCase5" finished-at="2024-01-19T00:32:23 IST" duration-ms="113" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase5 -->
       </class> <!-- org.testing.testScripts.TC5_DeleteRequest -->
       <class name="org.testing.testScripts.TC4_UpdateRequest">
-        <test-method signature="testCase4()[pri:0, instance:org.testing.testScripts.TC4_UpdateRequest@1bb5a082]" started-at="2024-01-17T22:32:13 IST" name="testCase4" finished-at="2024-01-17T22:32:13 IST" duration-ms="43" status="PASS">
+        <test-method signature="testCase4()[pri:0, instance:org.testing.testScripts.TC4_UpdateRequest@1bb5a082]" started-at="2024-01-19T00:32:22 IST" name="testCase4" finished-at="2024-01-19T00:32:23 IST" duration-ms="208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase4 -->
       </class> <!-- org.testing.testScripts.TC4_UpdateRequest -->
       <class name="org.testing.testScripts.TC3_GetParticularRequest">
-        <test-method signature="testcase3()[pri:0, instance:org.testing.testScripts.TC3_GetParticularRequest@3e694b3f]" started-at="2024-01-17T22:32:13 IST" name="testcase3" finished-at="2024-01-17T22:32:13 IST" duration-ms="48" status="PASS">
+        <test-method signature="testcase3()[pri:0, instance:org.testing.testScripts.TC3_GetParticularRequest@3e694b3f]" started-at="2024-01-19T00:32:22 IST" name="testcase3" finished-at="2024-01-19T00:32:22 IST" duration-ms="247" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase3 -->
       </class> <!-- org.testing.testScripts.TC3_GetParticularRequest -->
       <class name="org.testing.testScripts.TC1_PostRequest">
-        <test-method signature="testcase1()[pri:0, instance:org.testing.testScripts.TC1_PostRequest@5656be13]" started-at="2024-01-17T22:32:11 IST" name="testcase1" finished-at="2024-01-17T22:32:13 IST" duration-ms="1769" status="PASS">
+        <test-method signature="testcase1()[pri:0, instance:org.testing.testScripts.TC1_PostRequest@5656be13]" started-at="2024-01-19T00:32:19 IST" name="testcase1" finished-at="2024-01-19T00:32:22 IST" duration-ms="2375" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
       </class> <!-- org.testing.testScripts.TC1_PostRequest -->
       <class name="org.testing.testScripts.TC8_CreateEmployee">
-        <test-method signature="testcase8()[pri:0, instance:org.testing.testScripts.TC8_CreateEmployee@397fbdb]" started-at="2024-01-17T22:32:14 IST" name="testcase8" finished-at="2024-01-17T22:32:15 IST" duration-ms="943" status="PASS">
+        <test-method signature="testcase8()[pri:0, instance:org.testing.testScripts.TC8_CreateEmployee@397fbdb]" started-at="2024-01-19T00:32:23 IST" name="testcase8" finished-at="2024-01-19T00:32:24 IST" duration-ms="1087" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase8 -->
       </class> <!-- org.testing.testScripts.TC8_CreateEmployee -->
       <class name="org.testing.testScripts.TC6_GetAllData">
-        <test-method signature="testcase6()[pri:0, instance:org.testing.testScripts.TC6_GetAllData@41d477ed]" started-at="2024-01-17T22:32:13 IST" name="testcase6" finished-at="2024-01-17T22:32:14 IST" duration-ms="551" status="PASS">
+        <test-method signature="testcase6()[pri:0, instance:org.testing.testScripts.TC6_GetAllData@41d477ed]" started-at="2024-01-19T00:32:23 IST" name="testcase6" finished-at="2024-01-19T00:32:23 IST" duration-ms="476" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase6 -->

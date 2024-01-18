@@ -3,11 +3,11 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="org.testing.testScripts.TC4_UpdateRequest">
+      <class name="org.testing.testScripts.TC7_GetSingleData">
         <methods>
-          <include name="testCase4"/>
+          <include name="testcase7"/>
         </methods>
-      </class> <!-- org.testing.testScripts.TC4_UpdateRequest -->
+      </class> <!-- org.testing.testScripts.TC7_GetSingleData -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

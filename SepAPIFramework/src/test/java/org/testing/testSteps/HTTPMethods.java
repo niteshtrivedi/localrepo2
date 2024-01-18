@@ -43,7 +43,7 @@ public Response GETALLMETHOD(String uriKeyName) {
 		System.out.println(resObj.asString());
 		return resObj;
 	}
-public void GetParticular(String uriKeyName, String endPointValue) {
+public Response GetParticular(String uriKeyName, String endPointValue) {
 	
 	String uriValue=pr.getProperty(uriKeyName)+"/"+endPointValue;
 	Response resObj=
@@ -55,6 +55,7 @@ public void GetParticular(String uriKeyName, String endPointValue) {
 	System.out.println(resObj . statusCode());
 	System.out.println("Reponse data is ");
 	System.out.println(resObj.asString());
+	return resObj;
 
 }
 
@@ -74,7 +75,7 @@ public Response PutMethod(String jsonRequestBody,String uriKeyName,String endPoi
 	return resObj;
 }
 
-public void DeleteMethod(String uriKeyName, String endPointValue) {
+public Response DeleteMethod(String uriKeyName, String endPointValue) {
 	
 	String uriValue=pr.getProperty(uriKeyName)+"/"+endPointValue;
 	Response resObj=
@@ -86,6 +87,7 @@ public void DeleteMethod(String uriKeyName, String endPointValue) {
 	System.out.println(resObj . statusCode());
 	System.out.println("Reponse data is ");
 	System.out.println(resObj.asString());
+	return resObj;
     
 }
 
